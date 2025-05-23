@@ -111,10 +111,11 @@ export default function AboutMe() {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             <a
-              href="https://www.flowersandsaints.com.au"
+              href="/Harsha-Vidanagamage-Resume.pdf"
+              // download="Harsha-Vidanagamage-Resume.pdf"
+              className="apple-button inline-flex items-center"
               target="_blank"
               rel="noopener noreferrer"
-              className="apple-button inline-flex items-center"
             >
               Download CV
               <svg
