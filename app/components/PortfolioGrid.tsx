@@ -11,7 +11,7 @@ const projects = [
     description: "Comprehensive dashboard for a fintech startup",
     imageUrl: "/assets/dashboard.png?height=800&width=600",
     category: "Full Stack",
-    projectUrl: "https://github.com/harshacv01/dashboard",
+    projectUrl: "https://dashboard-sandy-ten.vercel.app/dashboard",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const projects = [
     description: "A full-fledged e-commerce platform",
     imageUrl: "/assets/e-commerce.png?height=800&width=600",
     category: "Frontend",
-    projectUrl: "https://github.com/harshacv01/forever-fe",
+    projectUrl: "https://e-commerce-fe-ten.vercel.app",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const projects = [
     description: "Admin panel for managing the e-commerce store",
     imageUrl: "/assets/forever-admin.png?height=800&width=600",
     category: "Frontend",
-    projectUrl: "https://github.com/harshacv01/forever-admin",
+    projectUrl: "https://e-commerce-admin-one-gamma.vercel.app",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const projects = [
     description: "A platform for buying and selling properties",
     imageUrl: "/assets/real-estate.png?height=800&width=600",
     category: "Frontend",
-    projectUrl: "https://github.com/harshacv01/real-estate",
+    projectUrl: "https://real-estate-app-khaki-six.vercel.app",
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const projects = [
     description: "A educational platform for skill development",
     imageUrl: "/assets/skill-gate.png?height=800&width=600",
     category: "Frontend",
-    projectUrl: "https://github.com/harshacv01/skill-gate-v03",
+    projectUrl: "https://skill-gate-v03.vercel.app",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const projects = [
     description: "Backend for the e-commerce store",
     imageUrl: "",
     category: "Backend",
-    projectUrl: "https://github.com/harshacv01/e-commerce-be",
+    projectUrl: "https://e-commerce-be-ashen.vercel.app",
   },
 ];
 
