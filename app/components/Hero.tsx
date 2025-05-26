@@ -42,7 +42,7 @@ const categories = [...new Set(projects.map((project) => project.category))];
 export default function Hero() {
   return (
     <div className="relative isolate overflow-hidden bg-background">
-      <div className="mx-auto max-w-7xl px-6 py-5 flex flex-col-reverse lg:flex-row lg:items-center lg:gap-x-10 lg:px-8">
+      <div className="mx-auto max-w-7xl px-6 sm:py-20 flex flex-col-reverse lg:flex-row lg:items-center lg:gap-x-10 lg:px-8">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-lg lg:flex-shrink-0">
           <motion.h1
             className="mt-10 text-4xl font-bold tracking-tight text-foreground sm:text-6xl"
